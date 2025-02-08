@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/WB_HealthBar.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Meshes/SM_Hole_01.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Meshes/SM_Hole_02.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Meshes/SM_Hole_03.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Meshes/SM_Hole_04.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Meshes/SM_Tunnel.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/WB_Score.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"D:/Program Files (x86)/UE_5.5/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/Program Files (x86)/UE_5.5/Engine/Content/BasicShapes/Cube.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"D:/Program Files (x86)/UE_5.5/Engine/Content/EditorMaterials/WorldGridPreviewMaterial1.uasset",
+				"D:/ijosh/Documents/Unreal Projects/InfiniteMatrixStarter 5.5/Content/InfiniteMatrix/Blueprints/Health.uasset"
+			]
+		}
+	]
+}
